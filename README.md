@@ -25,7 +25,7 @@ Termux:
 2. pkg install git
 3. git clone https://github.com/Dream-ID97/Adventure-Games.git
 4. cd Adventure-Games
-5. g++ adventure.cpp o adventure
+5. g++ adventure.cpp -o adventure
 6. ./adventure
 
 Fedora: 
@@ -33,7 +33,7 @@ Fedora:
 2. sudo dnf install git
 3. git clone https://github.com/Dream-ID97/Adventure-Games.git
 4. cd Adventure-Games
-5. g++ adventure.cpp o adventure
+5. g++ adventure.cpp -o adventure
 6. ./adventure
 
 CentOS:
@@ -41,7 +41,7 @@ CentOS:
 2. sudo yum install git
 3. git clone https://github.com/Dream-ID97/Adventure-Games.git
 4. cd Adventure-Games
-5. g++ adventure.cpp o adventure
+5. g++ adventure.cpp -o adventure
 6. ./adventure
 
 Debian/Ubuntu distribution:
@@ -49,7 +49,7 @@ Debian/Ubuntu distribution:
 2. sudo apt install git
 3. git clone https://github.com/Dream-ID97/Adventure-Games.git
 4. cd Adventure-Games
-5. g++ adventure.cpp o adventure
+5. g++ adventure.cpp -o adventure
 6. ./adventure
 
 Arch Linux distribution:
@@ -57,7 +57,7 @@ Arch Linux distribution:
 2. sudo pacman -S install git
 3. git clone https://github.com/Dream-ID97/Adventure-Games.git
 4. cd Adventure-Games
-5. g++ adventure.cpp o adventure
+5. g++ adventure.cpp -o adventure
 6. ./adventure
 
 Void Linux:
@@ -65,15 +65,15 @@ Void Linux:
 2. sudo xbps-install git
 3. git clone https://github.com/Dream-ID97/Adventure-Games.git
 4. cd Adventure-Games
-5. g++ adventure.cpp o adventure
-6. ./adventure
+6. g++ adventure.cpp -o adventure
+7. ./adventure
 
 OpenSuSE:
 1. sudo zypper install g++
 2. sudo zypper install git
 3. git clone https://github.com/Dream-ID97/Adventure-Games.git
 4. cd Adventure-Games
-5. g++ adventure.cpp o adventure
+5. g++ adventure.cpp -o adventure
 6. ./adventure
 
 # [•] Official credit: a156f9e0
